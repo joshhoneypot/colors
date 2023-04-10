@@ -1,56 +1,56 @@
-  "destinations": [
-    {
-      "id": 1,
-      "Name": "Maasai Mara",
-      "Address": 200,
-      "Location": "Narok",
-      "Activities": "Experience the Masai Mara, Saddle on horsebacks, Explore the open Savannah",
-      "Accomodation": " YES!",
-      "image": "http://bitly.ws/CEHo"
-    },
-    {
-      "id": 2,
-      "Name": "Fourteen Falls",
-      "Address": 3000,
-      "Location": "Thika",
-      "Activities": "Tour and sight seeing, Plant identification, Photography",
-      "Accomodation": "NO!",
-      "image": "http://bitly.ws/CEAa"
-    },
-    {
-      "id": 3,
-      "Name": "Mama Ngina's Drive",
-      "Address": 3000,
-      "Location": "Mombasa",
-      "Activities": "Camel rides, Mombasa city tour,Fort Jesus and Haller park tour ",
-      "Accomodation": "NO!",
-      "image": "http://bitly.ws/CEHJ"
-    },
-    {
-      "id": 4,
-      "Name": "Lake Baringo",
-      "Address": 5000,
-      "Location": "Baringo",
-      "Activities": "Bird watching,Amphibians watching, Water sports",
-      "Accomodation": " YES!",
-      "image": "http://bitly.ws/CEHP"
-    },
-    {
-      "id": 5,
-      "Name": "Mt Elgon",
-      "Address": 625,
-      "Location": "East of Nairobi",
-      "Activities": "Natural scenery, Hiking ,Landscape Photography, ",
-      "Accomodation": "NO!",
-      "image": "http://bitly.ws/CEHV"
-    },
-    {
-      "Name": "Fourteen Falls",
-      "Address": 3000,
-      "Location": "Thika",
-      "Activities": "Tour and sight seeing, Plant identification, Photography",
-      "Accomodation": "NO!",
-      "image": "http://bitly.ws/CEAa",
-      "id": 6
-    }
-  ]
+"destinations": [
+  {
+    "id": 1,
+    "Name": "Maasai Mara",
+    "Address": 200,
+    "Location": "Narok",
+    "Activities": "Experience the Masai Mara, Saddle on horsebacks, Explore the open Savannah",
+    "Accomodation": " YES!",
+    "image": "http://bitly.ws/CEHo"
+  },
+  {
+    "id": 2,
+    "Name": "Fourteen Falls",
+    "Address": 3000,
+    "Location": "Thika",
+    "Activities": "Tour and sight seeing, Plant identification, Photography",
+    "Accomodation": "NO!",
+    "image": "http://bitly.ws/CEAa"
+  },
+  {
+    "id": 3,
+    "Name": "Mama Ngina's Drive",
+    "Address": 3000,
+    "Location": "Mombasa",
+    "Activities": "Camel rides, Mombasa city tour,Fort Jesus and Haller park tour ",
+    "Accomodation": "NO!",
+    "image": "http://bitly.ws/CEHJ"
+  },
+  {
+    "id": 4,
+    "Name": "Lake Baringo",
+    "Address": 5000,
+    "Location": "Baringo",
+    "Activities": "Bird watching,Amphibians watching, Water sports",
+    "Accomodation": " YES!",
+    "image": "http://bitly.ws/CEHP"
+  },
+  {
+    "id": 5,
+    "Name": "Mt Elgon",
+    "Address": 625,
+    "Location": "East of Nairobi",
+    "Activities": "Natural scenery, Hiking ,Landscape Photography, ",
+    "Accomodation": "NO!",
+    "image": "http://bitly.ws/CEHV"
+  },
+  {
+    "Name": "Fourteen Falls",
+    "Address": 3000,
+    "Location": "Thika",
+    "Activities": "Tour and sight seeing, Plant identification, Photography",
+    "Accomodation": "NO!",
+    "image": "http://bitly.ws/CEAa",
+    "id": 6
+  }
+]
